@@ -20,6 +20,16 @@ span {
   color: #b66c31;
 }
 
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  span {
+    font-size: 2rem;
+  }
+}
+
 p {
   margin-top: 0;
 }
